@@ -1,0 +1,11 @@
+add file: 
+git add <filename>
+
+local commit:
+git commit -m "message"
+
+push to mothership:
+git push origin master
+
+pull from mothership:
+git pull 
